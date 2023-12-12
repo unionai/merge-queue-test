@@ -1,3 +1,3 @@
 # Merge Queue Test
 
-Testing out merge queues.
+We're just testing.
